@@ -16,10 +16,11 @@ With RAW Normalize you can set every with and height as you want, and you do not
 ### Version
 1.0.0
 
-### Todo's
+### Todo
 
  - Create NPM and BOWER packages
- - Rethink Github Save
+ - select tag not working in chrome and safari
+ - :active not working on iPad and iPhone
 
 License
 ----
